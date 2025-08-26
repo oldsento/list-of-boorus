@@ -28,8 +28,10 @@ https://rule34vault.com/ 部分标签搜不到/资源少❗️点击容易跳转
 https://kurozenzen.github.io/r34-react/#/#results (只有这个能搜索❗️
 https://kurozenzen.github.io/r34/ 
 https://github.com/kurozenzen/r34-react/issues 上面的镜像，貌似没广告，没模糊滤镜，
+
 https://app.rule34.dev/ [ehentai.moe]e聚合搜索，有视频类，
 https://app.rule34.dev/manga E绅士翻版？只有其部分资源❗️
+
 https://hijiribe.donmai.us/ Danbooru无和谐版🌟
 https://danbooru.donmai.us/ 要挂V❗
 https://tbib.org/ ✅正名搜
