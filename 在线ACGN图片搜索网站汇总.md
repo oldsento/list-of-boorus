@@ -10,7 +10,8 @@ https://www.google.com/imghp?sbi=1 谷歌搜图 目前网罗最多，相关度�
 https://wallpapercave.com/r34-anime-wallpapers 貌似没18x，引用pinterest部分图源？名字难搜❗️若没标签最好都搜一下
  
 https://tsundora.com/ 高清图，
-https://chan.sankakucomplex.com/ 要挂V https://www.sankakucomplex.com/zh-CN 无18x❗
+https://chan.sankakucomplex.com/ 要挂V 
+https://www.sankakucomplex.com/zh-CN 无18x❗
 https://safebooru.org/ 无18x❗
 https://anime-pictures.net/
 https://www.zerochan.net/ 部分图片要登录才给看/下载❗
@@ -19,10 +20,12 @@ https://www.pinterest.com/search/?input_select=true 有GIF，有限制❗️要�
 https://paheal.net/  r34导航但只有2个网站
 https://r34.app/ 有软件/github，聚合搜索，danbooru不显示图片，部分功能/站点搜索限制❗️容易跳转其他网站❗️
 https://rule34ai.art/ 视频，部分没有❗️
-https://rule34video.co/ 镜像，https://rule34.paheal.net/ 容易挂/挂v都不行❗️色图/同人视频/GIF，作品很难搜最好用角色名，空格要用连接符❗️目前有模糊滤镜❗️但操作没限制❗️很难访问容易被和谐❗️
+https://rule34video.co/ 镜像，
+https://rule34.paheal.net/ 容易挂/挂v都不行❗️色图/同人视频/GIF，作品很难搜最好用角色名，空格要用连接符❗️目前有模糊滤镜❗️但操作没限制❗️很难访问容易被和谐❗️
 https://rule34vault.com/ 部分标签搜不到/资源少❗️点击容易跳转其他网站❗️
 https://kurozenzen.github.io/r34-react/#/#results (只有这个能搜索❗️
-https://kurozenzen.github.io/r34/ https://github.com/kurozenzen/r34-react/issues 上面的镜像，貌似没广告，没模糊滤镜，
+https://kurozenzen.github.io/r34/ 
+https://github.com/kurozenzen/r34-react/issues 上面的镜像，貌似没广告，没模糊滤镜，
 https://app.rule34.dev/ [ehentai.moe]e聚合搜索，有视频类，
 https://app.rule34.dev/manga E绅士翻版？只有其部分资源❗️
 https://hijiribe.donmai.us/ Danbooru无和谐版🌟
@@ -58,7 +61,7 @@ https://tbib.org/ ✅正名搜
 24. sauceNAO 结果也差劲❌
 25. 次元搜图 可能打开很慢
 26. 二次元画像詳細検索 结果也差劲❌要验证
-27.  https://shimmie.shishnet.org/ 测试用，貌似只有部分源站的❌
+27. https://shimmie.shishnet.org/ 测试用，貌似只有部分源站的❌
 28. https://www.idolcomplex.com/❌
 29. https://zatrenders.blogspot.com/search?q=pesquisar+no+site&x=23&y=5&m=1 无修图搜索，搜不到❌
 30. http://mary-jane.biz/mysite1/brandishchara.html 部分里番人物立绘，挂v都难访问❌
